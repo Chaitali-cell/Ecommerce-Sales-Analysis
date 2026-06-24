@@ -115,7 +115,7 @@ These slicers update all charts and KPIs instantly.
 1. Download the Excel dashboard file.
 2. Open the file in Microsoft Excel.
 3. Enable content if prompted.
-4. Use the slicers to filter data by Year, Region, or Segment.
+4. Use the slicers to filter data by Year, Region or Segment.
 5. Explore interactive charts and KPI cards.
 
 ---
