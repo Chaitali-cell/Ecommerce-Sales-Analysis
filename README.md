@@ -107,7 +107,7 @@ These slicers update all charts and KPIs instantly.
 ---
 
 ## 📷 Dashboard Preview
-![Ecommerce Sales Analysis Dashboard](Dashboard.png)
+![Ecommerce Sales Analysis Dashboard](DASHBOARD.png)
 ---
 
 ## 🚀 How to Use
